@@ -12,8 +12,7 @@ This project is designed to classify data science articles into five classes: Bi
     - [Data Preprocessing](#4-data-preprocessing)
     - [Training the Model](#5-training-the-model)
     - [Evaluating the Model](#6-evaluating-the-model)
-    - [Interpretation and Improvements](#7-interpretation-and-improvements)
-- [Note](#note)
+    - [Results of All Models](#7-results)
 
 ## Introduction
 
@@ -59,6 +58,6 @@ ML_&_DL.ipynb
 
 Evaluate the trained model on the test set and analyze the results from classification report.
 
-### 7. Interpretation and Improvements
+### 7. Results
 
-Interpret the results, explore misclassifications, and consider making improvements to the model or data collection process.
+<img src="results.png" alt="Results of All models" width="500">
